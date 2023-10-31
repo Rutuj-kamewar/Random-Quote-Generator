@@ -18,4 +18,4 @@ async function getQuote() {
         console.error('Failed to fetch the quote:', error);
     }
 }
-
+comsol.log("commited")
